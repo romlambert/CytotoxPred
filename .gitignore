@@ -1,0 +1,7 @@
+__pycache__
+.idea
+.vscode
+.ipynb_checkpoints
+lightning_logs
+runs
+runstf_efficientnetv2_b0-LTv4-RUN1
